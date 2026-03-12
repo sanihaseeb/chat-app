@@ -2,7 +2,7 @@
 
 A real-time chat application with private messaging, built with React, Node.js, Socket.IO, and SQLite.
 
-![Dark purple UI with sidebar showing channels and direct messages]
+[Dark purple UI with sidebar showing channels and direct messages]
 
 ## Features
 
